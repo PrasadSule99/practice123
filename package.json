@@ -1,0 +1,23 @@
+{
+  "name": "practice123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasadSule99/practice123.git"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasadSule99/practice123/issues"
+  },
+  "homepage": "https://github.com/PrasadSule99/practice123#readme"
+}
